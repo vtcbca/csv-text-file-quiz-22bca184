@@ -1,0 +1,7 @@
+Hello this is intro file.
+My name is om.
+My city name is vyara.
+My age is 18.
+I am create this file for practice.
+I practice how to write and read the txt file in python.
+I am create this intro file in python and print only even number of row in another file.
